@@ -18,7 +18,7 @@
 							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
 						</TrackingEvents>
 						<VideoClicks>
-							<ClickThrough><![CDATA[ hhttps://www.mgcars.com/th/mg-models/new-mg-es/overview?utm_source=OTT&utm_medium=MG_ES_VDO15s&utm_campaign=MG_ES ]]></ClickThrough>
+							<ClickThrough><![CDATA[ https://www.mgcars.com/th/mg-models/new-mg-es/overview?utm_source=OTT&utm_medium=MG_ES_VDO15s&utm_campaign=MG_ES ]]></ClickThrough>
 							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
 						</VideoClicks>
 						<MediaFiles>
